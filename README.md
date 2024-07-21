@@ -1,19 +1,3 @@
-## Lusty94_Ammunation
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-PLEASE MAKE SURE TO READ THIS ENTIRE FILE AS IT COVERS SOME IMPORTANT INFORMATION
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-
-======================================
-SCRIPT SUPPORT VIA DISCORD: https://discord.gg/BJGFrThmA8
-======================================
-
-
 ## FEATURES
 
 - Pick and process fresh chicken into various products
